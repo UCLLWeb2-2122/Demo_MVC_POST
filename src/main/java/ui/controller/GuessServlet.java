@@ -1,6 +1,6 @@
 package ui.controller;
 
-import domain.GuessGame;
+import domain.model.GuessGame;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

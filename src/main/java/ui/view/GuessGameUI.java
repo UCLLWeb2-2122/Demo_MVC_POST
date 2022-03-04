@@ -1,5 +1,5 @@
 package ui.view;
-import domain.GuessGame;
+import domain.model.GuessGame;
 
 import javax.swing.JOptionPane;
 
